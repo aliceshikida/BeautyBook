@@ -1,7 +1,5 @@
 # BeautyBook
 
-# 💅 BeautyBook 👨‍💻
-
 > Aplicação web para gerenciamento de agendamentos em salões de beleza.  
 > Permite que clientes realizem reservas online e que funcionários e administradores gerenciem a agenda, os serviços e os relatórios de atendimento.
 
