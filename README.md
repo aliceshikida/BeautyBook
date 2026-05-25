@@ -121,11 +121,21 @@ A comunicação entre o frontend e o backend é feita exclusivamente via **HTTP/
 
 ### Exemplos de Diagramas
 
-|Diagrama de Componentes|Diagrama de Implantação                |
-|-----------------------|---------------------------------------|
-|*(inserir imagem)*     |*(inserir imagem)*                     |
-|**Diagrama de Classes**|**Diagrama de Sequência – Agendamento**|
-|*(inserir imagem)*     |*(inserir imagem)*                     |
+**Diagrama de Estados**
+<img src="./docs/diagrams/![Uploading Captura de Tela 2026-05-25 às 19.18.02.png…]()
+" alt="Diagrama de Estados AWS — BeautyBook" width="450"/>
+
+**Diagrama de Implantação**
+<img src="./docs/diagrams/diagrama-implantacao-aws.png" alt="Diagrama de Implantação AWS — BeautyBook" width="450"/>
+
+**Diagrama de Classes**
+<img src="./docs/diagrams/diagrama-classes.png" alt="Diagrama de Classes — BeautyBook" width="450"/>
+
+| Diagrama de Componentes | Diagrama de Implantação |
+| :---: | :---: |
+| *(inserir imagem)* | <img src="./docs/diagrams/diagrama-implantacao-aws.png" alt="Diagrama de Implantação AWS — BeautyBook" width="450"/> |
+| **Diagrama de Classes** | **Diagrama de Sequência – Agendamento** |
+| <img src="./docs/diagrams/diagrama-classes.png" alt="Diagrama de Classes — BeautyBook" width="450"/> | *(inserir imagem)* |
 
 
 > Os diagramas completos estão disponíveis na pasta `/docs` e na [Documentação de Projeto](./docs/Documentacao_BeautyBook_v1.0.pdf).
