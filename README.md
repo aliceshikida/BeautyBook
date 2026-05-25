@@ -309,21 +309,6 @@ beautybook/
 
 -----
 
-## 🎥 Demonstração
-
-### 🌐 Aplicação Web
-
-|Tela                     |Captura de Tela          |
-|-------------------------|-------------------------|
-|**Tela Inicial / Login** |**Painel do Cliente**    |
-|*(inserir screenshot)*   |*(inserir screenshot)*   |
-|**Tela de Agendamento**  |**Agenda do Funcionário**|
-|*(inserir screenshot)*   |*(inserir screenshot)*   |
-|**Painel Administrativo**|**Relatórios**           |
-|*(inserir screenshot)*   |*(inserir screenshot)*   |
-
------
-
 ## 🧪 Testes
 
 ### Testes Unitários e de Integração
